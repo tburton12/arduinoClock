@@ -6,3 +6,5 @@ Simple desk clock project based on Arduino Mega.
 Showing time, date, temperature and humidity.
 
 Possibility of setting date and time with physical buttons (Mode, Left and Right arrows).
+
+### Scheme and wiring will be added soon!
