@@ -1,4 +1,4 @@
-# arduinoClock
+# Arduino Simple Clock
 
 Simple desk clock project based on Arduino Mega.
 
