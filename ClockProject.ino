@@ -149,7 +149,7 @@ void loop()
     // Blinking cursor
     if (currentClockTime > clockTimeOfPreviousCursorBlink + CURSOR_BLINKING_PERIOD) {
       if (cursorOn) {
-        lcd.cursor();
+        lcd.noCursor();
         cursorOn = 0;
         clockTimeOfPreviousCursorBlink = millis();
       }
